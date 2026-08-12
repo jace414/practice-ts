@@ -1,2 +1,2 @@
-# practice-ts
-practice repo
+# practiceTsRepo
+Practice project repo
